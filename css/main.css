@@ -1,0 +1,65 @@
+body {
+    background-color: #F0F0F0;
+}
+
+#wrapper {
+    width:      500px;
+    margin:     auto;
+    text-align: center;
+    margin-top: 200px;
+    padding:    20px;
+}
+
+h1 {
+    font-family:    'Economica';
+    font-size:      50px;
+    line-height:    50px;
+    color:          #000000;
+}
+
+a.icon {
+    cursor:         pointer;
+    float:          left;
+    height:         40px;
+    width:          40px;
+    width:          40px;
+    margin-top:     10px;
+    margin-left:    5px;
+    margin-right:   5px;
+}
+
+.tooltip-inner {
+    max-width:      300px;
+}
+
+div.infos       { background-image: url('../images/infos.png'); background-repeat: no-repeat; margin-bottom: 3px; }
+
+div.email       { width: 171px; height: 15px; }
+a.email         { background: url("../images/icons.png") no-repeat 0px 0px; }
+
+div.mobile      { width: 109px; height: 15px; background-position: 0px -16px; }
+a.mobile        { background: url("../images/icons.png") no-repeat -40px 0px; }
+
+div.facebook    { width: 233px; height: 15px; background-position: 0px -32px; }
+a.facebook      { background: url("../images/icons.png") no-repeat -80px 0px; }
+
+div.twitter     { width: 138px; height: 15px; background-position: 0px -48px; }
+a.twitter       { background: url("../images/icons.png") no-repeat -120px 0px; }
+
+div.google      { width: 193px; height: 15px; background-position: 0px -64px; }
+a.google        { background: url("../images/icons.png") no-repeat -160px 0px; }
+
+div.linkedin    { width: 244px; height: 15px; background-position: 0px -80px; }
+a.linkedin      { background: url("../images/icons.png") no-repeat 0px -40px; }
+
+div.github      { width: 142px; height: 15px; background-position: 0px -96px; }
+a.github        { background: url("../images/icons.png") no-repeat -40px -40px; }
+
+div.skype       { width: 162px; height: 15px; background-position: 0px -112px; }
+a.skype         { background: url("../images/icons.png") no-repeat -80px -40px; }
+
+div.yahoo       { width: 162px; height: 15px; background-position: 0px -128px; }
+a.yahoo         { background: url("../images/icons.png") no-repeat -120px -40px; }
+
+div.live        { width: 243px; height: 15px; background-position: 0px -144px; }
+a.live          { background: url("../images/icons.png") no-repeat -160px -40px; }
