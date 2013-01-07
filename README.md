@@ -1,4 +1,4 @@
 Max Meiden Dasuki
 =================
 
-Code for maxmeidendasuki.com
+Code for http://www.maxmeidendasuki.com/
