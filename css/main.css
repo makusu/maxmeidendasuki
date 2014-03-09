@@ -11,10 +11,12 @@ body {
 }
 
 h1 {
+    margin:         10px 0;
     font-family:    'Economica';
     font-size:      50px;
     line-height:    50px;
     color:          #000000;
+    text-rendering: optimizelegibility;
 }
 
 a.icon {
